@@ -1,0 +1,11 @@
+Base path: /Volumes/outboard/USB_Applications/Unity/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=15 insize=3182 outsize=3741 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=6689 outsize=1561 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=2285 outsize=5069 ok=1
+Unhandled exception: Protocol error - failed to read correct magic number
+
+Quitting shader compiler process
